@@ -40,10 +40,29 @@ experience:
 
 education:
   - institution: Indian Institute of Technology, Bombay (IIT Bombay)
-    degree:
-    field:
-    graduation_year:
-    notes:
+    degree: B.Tech / M.Tech
+    field: Engineering
+    start_year: 1988
+    graduation_year: 1993
+    notes: One of India's premier technical institutions
+
+patents:
+  - title: Distributed Systems (network traffic control)
+    status: Issued
+    notes: Two patents issued related to distributed systems and network traffic control
+
+volunteer:
+  - role: FIRST Robotics Mentor
+    organization: FIRST Robotics Competition (FTC)
+    start: 2015
+    end: present
+    notes: Mentored FTC teams; workshops in CAD, Java, and hardware
+
+  - role: Science Fair Judge
+    organization: ACM
+    start: 2011
+    end: present
+    notes: Judges student science fair projects for ACM
 
 certifications:
   - name: Functional Program Design in Scala

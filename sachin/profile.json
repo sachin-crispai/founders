@@ -12,7 +12,7 @@
     "primary": true,
     "location": "San Francisco, CA, USA",
     "timezone": "America/Los_Angeles",
-    "languages_spoken": ["English"]
+    "languages_spoken": ["English", "Hindi", "Marathi", "German"]
   },
   "professional": {
     "current_focus": [
@@ -23,10 +23,14 @@
     ],
     "domains": [
       "Artificial Intelligence",
-      "Machine Learning",
-      "Data Engineering",
-      "Robotics",
+      "Machine Learning Engineering",
+      "AI Agent Systems",
+      "On-Premises AI Deployment",
+      "Robotics AI",
       "Medical AI",
+      "CT & MRI Imaging AI",
+      "Data Engineering",
+      "Distributed Systems",
       "Cloud & On-Prem Infrastructure",
       "Product Engineering"
     ],
@@ -35,7 +39,10 @@
         {"name": "Large Language Models (LLMs)", "proficiency": "expert"},
         {"name": "AI Agent Systems", "proficiency": "expert"},
         {"name": "On-Premises Model Deployment", "proficiency": "expert"},
-        {"name": "Machine Learning Engineering", "proficiency": "advanced"}
+        {"name": "Machine Learning Engineering", "proficiency": "expert"},
+        {"name": "Robotics AI", "proficiency": "expert"},
+        {"name": "Medical AI (CT & MRI Imaging)", "proficiency": "expert"},
+        {"name": "Apache Spark / Scalable ML", "proficiency": "expert"}
       ],
       "programming": [
         {"name": "Python", "proficiency": "expert"},

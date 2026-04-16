@@ -4,6 +4,7 @@ subject: Sachin
 # Proficiency scale: beginner | intermediate | advanced | expert
 
 ai_and_ml:
+  # --- Core AI / LLM ---
   - name: Large Language Models (LLMs)
     proficiency: expert
     notes: Prompt engineering, RAG pipelines, fine-tuning, on-prem deployment
@@ -14,14 +15,43 @@ ai_and_ml:
     proficiency: expert
     notes: Running AI models without cloud dependency — key CrispAI differentiator
   - name: Machine Learning Engineering
-    proficiency: advanced
-    notes: Model training, inference pipelines, MLOps
+    proficiency: expert
+    notes: Model training, inference pipelines, MLOps, scalable ML (edX certified)
+  - name: Scalable Machine Learning
+    proficiency: expert
+    notes: Distributed ML on Spark; edX certified
+
+  # --- Robotics ---
   - name: Robotics AI
+    proficiency: expert
+    notes: >
+      Applied AI for robotics systems; FIRST Robotics mentor (2015–present);
+      workshops in CAD, Java, and hardware for FTC teams
+  - name: Robotics Hardware Integration
     proficiency: advanced
-    notes: Applied AI for robotics systems
+    notes: CAD, embedded systems, sensor integration
+
+  # --- Medical AI / Imaging ---
   - name: Medical AI
+    proficiency: expert
+    notes: AI applications in healthcare, diagnostics, and clinical workflows
+  - name: CT Imaging AI
     proficiency: advanced
-    notes: AI applications in healthcare and medical services
+    notes: AI models for computed tomography analysis and interpretation
+  - name: MRI Imaging AI
+    proficiency: advanced
+    notes: AI models for MRI scan analysis and diagnostics
+  - name: Medical Imaging Pipelines
+    proficiency: advanced
+    notes: End-to-end pipelines for DICOM, radiology, and imaging data
+
+  # --- Data & Infrastructure ---
+  - name: Data Science and Engineering with Spark
+    proficiency: expert
+    notes: edX certified; distributed data pipelines, large-scale analytics
+  - name: Apache Spark
+    proficiency: expert
+    notes: edX certified; used extensively in Arcion/Databricks context
 
 programming_languages:
   - name: Python
