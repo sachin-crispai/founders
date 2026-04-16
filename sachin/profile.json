@@ -5,12 +5,15 @@
     "description": "Canonical machine-readable profile for Sachin, primary founder of CrispAI."
   },
   "identity": {
-    "name": "Sachin",
+    "name": "Sachin Naik",
+    "first_name": "Sachin",
+    "last_name": "Naik",
     "email": "sachin@crispai.com",
     "company": "CrispAI",
     "role": "Co-Founder",
+    "headline": "Polyglot Technologist | GenAI, LLMs, Agent Frameworks | Healthtech & ETL | Driving Global AI Adoption",
     "primary": true,
-    "location": "San Francisco, CA, USA",
+    "location": "Fremont, California, USA",
     "timezone": "America/Los_Angeles",
     "languages_spoken": ["English", "Hindi", "Marathi", "German"]
   },
@@ -121,6 +124,6 @@
     "github": "https://github.com/sachin-crispai",
     "linkedin": "https://www.linkedin.com/in/sachinumeshnaik/",
     "website": null,
-    "twitter": null
+    "twitter": "https://twitter.com/sachinnaik"
   }
 }

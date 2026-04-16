@@ -109,8 +109,12 @@ cloud_and_infra:
     proficiency: advanced
   - name: GCP
     proficiency: advanced
+    notes: Actively used; mentioned in LinkedIn profile
   - name: Azure
     proficiency: advanced
+  - name: Kubernetes
+    proficiency: advanced
+    notes: Container orchestration for AI workloads
   - name: On-Premises Infrastructure
     proficiency: expert
     notes: Specialization in deploying AI on-prem for regulated industries

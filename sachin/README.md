@@ -6,12 +6,16 @@
 
 | Field      | Value                    |
 |------------|--------------------------|
-| Name       | Sachin                   |
-| Email      | sachin@crispai.com       |
-| Company    | CrispAI                  |
-| Role       | Founder                  |
-| Primary    | Yes                      |
-| GitHub     | github.com/sachin-crispai |
+| Name       | Sachin Naik                        |
+| Email      | sachin@crispai.com                 |
+| Company    | CrispAI                            |
+| Role       | Co-Founder                         |
+| Headline   | Polyglot Technologist \| GenAI, LLMs, Agent Frameworks |
+| Location   | Fremont, California, USA           |
+| Primary    | Yes                                |
+| GitHub     | github.com/sachin-crispai          |
+| LinkedIn   | linkedin.com/in/sachinumeshnaik    |
+| Twitter    | @sachinnaik                        |
 
 ## Files in This Directory
 
