@@ -27,6 +27,41 @@ programming_languages:
   - name: Python
     proficiency: expert
     notes: Primary language for ML, data engineering, and backend
+  - name: Java
+    proficiency: expert
+  - name: Scala
+    proficiency: expert
+    notes: Functional programming; Spark ecosystem
+  - name: C
+    proficiency: expert
+  - name: C++
+    proficiency: expert
+  - name: Intel x86 Assembly
+    proficiency: advanced
+  - name: RISC Assembly
+    proficiency: advanced
+  - name: ARM Assembly
+    proficiency: intermediate
+    notes: Familiarity with ARM architecture
+  - name: Networking (TCP/IP, protocols)
+    proficiency: advanced
+    notes: Systems-level networking knowledge
+  - name: SQL
+    proficiency: expert
+  - name: Bash / Shell scripting
+    proficiency: advanced
+  - name: JavaScript
+    proficiency: intermediate
+  - name: Go
+    proficiency: intermediate
+  - name: Rust
+    proficiency: intermediate
+  - name: VHDL / HDL
+    proficiency: intermediate
+    notes: Hardware description; low-level systems
+  - name: "15+ languages total"
+    proficiency: expert
+    notes: Spans from high-level (Python, Java, Scala) down to bare-metal assembly (x86, RISC, ARM)
 
 frameworks_and_tools:
   - name: Claude / Anthropic API
