@@ -1,0 +1,68 @@
+last_updated: 2026-04-16
+subject: Sachin
+
+# Proficiency scale: beginner | intermediate | advanced | expert
+
+ai_and_ml:
+  - name: Large Language Models (LLMs)
+    proficiency: expert
+    notes: Prompt engineering, RAG pipelines, fine-tuning, on-prem deployment
+  - name: AI Agent Systems
+    proficiency: expert
+    notes: Autonomous agents, multi-agent orchestration, workflow automation
+  - name: On-Premises Model Deployment
+    proficiency: expert
+    notes: Running AI models without cloud dependency — key CrispAI differentiator
+  - name: Machine Learning Engineering
+    proficiency: advanced
+    notes: Model training, inference pipelines, MLOps
+  - name: Robotics AI
+    proficiency: advanced
+    notes: Applied AI for robotics systems
+  - name: Medical AI
+    proficiency: advanced
+    notes: AI applications in healthcare and medical services
+
+programming_languages:
+  - name: Python
+    proficiency: expert
+    notes: Primary language for ML, data engineering, and backend
+
+frameworks_and_tools:
+  - name: Claude / Anthropic API
+    proficiency: advanced
+    notes: Claude Code, agent workflows
+  - name: Databricks
+    proficiency: advanced
+    notes: From Arcion acquisition; data lakehouse, pipelines
+  - name: Data Engineering (ETL/ELT)
+    proficiency: expert
+    notes: Arcion background — real-time data replication and pipelines
+
+cloud_and_infra:
+  - name: AWS
+    proficiency: advanced
+  - name: GCP
+    proficiency: advanced
+  - name: Azure
+    proficiency: advanced
+  - name: On-Premises Infrastructure
+    proficiency: expert
+    notes: Specialization in deploying AI on-prem for regulated industries
+
+product_and_design:
+  - name: Product Strategy
+    proficiency: advanced
+    notes: Led product across corporate and startup contexts
+  - name: Technical Leadership
+    proficiency: expert
+
+soft_skills:
+  - name: Mentorship
+    proficiency: expert
+  - name: Team Building
+    proficiency: expert
+    notes: Experience leading 1, 10, and 30-person teams
+  - name: Entrepreneurship
+    proficiency: expert
+    notes: Serial founder; multiple startup stages and exits

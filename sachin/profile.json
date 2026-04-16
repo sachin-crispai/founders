@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-04-16",
+    "description": "Canonical machine-readable profile for Sachin, primary founder of CrispAI."
+  },
+  "identity": {
+    "name": "Sachin",
+    "email": "sachin@crispai.com",
+    "company": "CrispAI",
+    "role": "Co-Founder",
+    "primary": true,
+    "location": "San Francisco, CA, USA",
+    "timezone": "America/Los_Angeles",
+    "languages_spoken": ["English"]
+  },
+  "professional": {
+    "current_focus": [
+      "On-premises AI model deployment",
+      "AI agents and autonomous systems",
+      "Robotics AI applications",
+      "Medical AI services"
+    ],
+    "domains": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Engineering",
+      "Robotics",
+      "Medical AI",
+      "Cloud & On-Prem Infrastructure",
+      "Product Engineering"
+    ],
+    "skills": {
+      "ai_ml": [
+        {"name": "Large Language Models (LLMs)", "proficiency": "expert"},
+        {"name": "AI Agent Systems", "proficiency": "expert"},
+        {"name": "On-Premises Model Deployment", "proficiency": "expert"},
+        {"name": "Machine Learning Engineering", "proficiency": "advanced"}
+      ],
+      "programming": [
+        {"name": "Python", "proficiency": "expert"},
+        {"name": "Data Engineering", "proficiency": "expert"}
+      ],
+      "tools_and_platforms": [
+        {"name": "Claude / Anthropic API", "proficiency": "advanced"},
+        {"name": "Databricks", "proficiency": "advanced"},
+        {"name": "Cloud Platforms (AWS, GCP, Azure)", "proficiency": "advanced"}
+      ],
+      "soft_skills": [
+        {"name": "Technical Leadership", "proficiency": "expert"},
+        {"name": "Mentorship", "proficiency": "expert"},
+        {"name": "Product Strategy", "proficiency": "advanced"}
+      ]
+    },
+    "experience_summary": "Serial entrepreneur with experience across corporate, single-person, 10-person, and 30-person startups. Key prior work includes Arcion (acquired by Databricks).",
+    "notable_exits": [
+      {"company": "Arcion", "event": "Acquired by Databricks"}
+    ]
+  },
+  "team": {
+    "co_founders": [
+      {"name": "Praveen", "role": "Co-Founder"},
+      {"name": "Dr. Patrick Damaso", "role": "Co-Founder"},
+      {"name": "Rohan Pai", "role": "Co-Founder"},
+      {"name": "Srinivas Dharmasharan", "role": "Co-Founder"},
+      {"name": "SG Anand", "role": "Co-Founder"},
+      {"name": "Sameer Gupta", "role": "Co-Founder"}
+    ],
+    "advisors": [
+      {"name": "Alok Nandan", "role": "Advisor"},
+      {"name": "Rajkumar Sen", "role": "Advisor"}
+    ]
+  },
+  "interests": {
+    "professional": [
+      "AI agents and autonomous systems",
+      "On-premises LLM deployment",
+      "Robotics AI",
+      "Medical AI",
+      "Data engineering"
+    ],
+    "personal": [
+      "Reading and writing",
+      "Travel",
+      "Family",
+      "Mentorship",
+      "Continuous learning"
+    ],
+    "learning": [
+      "Emerging LLM architectures",
+      "Robotics and embodied AI"
+    ]
+  },
+  "goals": {
+    "short_term": [],
+    "long_term": []
+  },
+  "preferences": {
+    "communication_style": null,
+    "work_style": null,
+    "collaboration": null
+  },
+  "links": {
+    "github": "https://github.com/sachin-crispai",
+    "linkedin": "https://linkedin.com/in/sachin",
+    "website": null,
+    "twitter": null
+  }
+}

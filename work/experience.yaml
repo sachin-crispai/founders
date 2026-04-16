@@ -1,0 +1,52 @@
+last_updated: 2026-04-16
+
+experience:
+  - company: CrispAI
+    role: Co-Founder
+    status: current
+    start_date:
+    end_date: present
+    location: San Francisco, CA, USA
+    description: >
+      AI company specializing in on-premises model deployment, AI agents and automation,
+      robotics AI, medical AI services, and AI infrastructure. Co-founded with Praveen,
+      Dr. Patrick Damaso, Rohan Pai, Srinivas Dharmasharan, SG Anand, and Sameer Gupta.
+    key_work:
+      - On-premises LLM deployment for regulated industries
+      - AI agent and workflow automation platforms
+      - Robotics AI applications
+      - Medical AI services
+    tech_stack:
+      - Python
+      - LLMs (Claude, OpenAI, open-source models)
+      - On-prem inference infrastructure
+
+  - company: Arcion
+    role: # add specific role
+    status: past
+    start_date:
+    end_date:
+    location:
+    description: >
+      Real-time data replication and CDC (Change Data Capture) platform.
+      Acquired by Databricks.
+    key_work:
+      - Data pipeline and replication infrastructure
+    tech_stack:
+      - Data engineering
+      - Databases
+      - Cloud infrastructure
+    exit: Acquired by Databricks
+
+education:
+  - institution:
+    degree:
+    field:
+    graduation_year:
+    notes:
+
+advisors:
+  - name: Alok Nandan
+    relationship: Advisor at CrispAI
+  - name: Rajkumar Sen
+    relationship: Advisor at CrispAI

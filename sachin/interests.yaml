@@ -1,0 +1,50 @@
+last_updated: 2026-04-16
+subject: Sachin
+
+# Relevance scale: low | medium | high | primary
+
+professional_interests:
+  - topic: AI Agents and Autonomous Systems
+    relevance: primary
+    notes: Core to CrispAI's product direction
+  - topic: On-Premises LLM Deployment
+    relevance: primary
+    notes: CrispAI's key differentiator — AI without cloud dependency
+  - topic: Robotics AI
+    relevance: primary
+    notes: Active vertical at CrispAI
+  - topic: Medical AI
+    relevance: primary
+    notes: Active vertical at CrispAI
+  - topic: Data Engineering and Pipelines
+    relevance: high
+    notes: Deep background from Arcion / Databricks
+  - topic: AI Infrastructure and Developer Tools
+    relevance: high
+  - topic: Applied Machine Learning
+    relevance: high
+
+technical_interests:
+  - topic: LLM Architecture and Capabilities
+    relevance: high
+  - topic: Prompt Engineering and Evaluation
+    relevance: high
+  - topic: Edge and On-Prem AI Deployment
+    relevance: primary
+  - topic: Multi-Agent Systems
+    relevance: high
+
+personal_interests:
+  - topic: Reading and Writing
+    relevance: high
+    notes: Thought leadership, staying current with technology and business trends
+  - topic: Travel
+    relevance: high
+  - topic: Family
+    relevance: primary
+  - topic: Mentorship
+    relevance: primary
+    notes: Strong belief in mentoring the next generation of engineers and founders
+  - topic: Continuous Learning
+    relevance: primary
+    notes: Core personal value — always studying new domains and technologies
