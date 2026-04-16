@@ -45,6 +45,37 @@ education:
     graduation_year:
     notes:
 
+certifications:
+  - name: Functional Program Design in Scala
+    issuer: Coursera
+    issued: 2016-11
+
+  - name: Functional Programming Principles in Scala
+    issuer: Coursera
+    issued: 2016-11
+
+  - name: Data Science and Engineering with Spark
+    issuer: edX
+    issued: 2016-09
+    credential_id: 767c79abb01f48fbbeebcb161d9fba1b
+
+  - name: Scalable Machine Learning
+    issuer: edX
+    issued: 2015-08
+    credential_id: 78f517820cc84f388101c1d320202e94
+
+  - name: Introduction to Apache Spark
+    issuer: edX
+    issued:
+
+  - name: An Introduction to Interactive Programming in Python
+    issuer: Coursera
+    issued: 2013-04
+
+  - name: Cryptography I
+    issuer: Coursera
+    issued: 2013-01
+
 advisors:
   - name: Alok Nandan
     relationship: Advisor at CrispAI
