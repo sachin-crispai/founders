@@ -103,9 +103,10 @@
     "long_term": []
   },
   "preferences": {
-    "communication_style": null,
-    "work_style": null,
-    "collaboration": null
+    "communication_style": "direct and concise, structured output preferred",
+    "work_style": "async-first, fast decision-making, ships and iterates",
+    "collaboration": "high trust for reversible actions; confirm before destructive or external actions",
+    "ai_agent_preference": "DAG-based task orchestration with automatic error recovery and retry"
   },
   "links": {
     "github": "https://github.com/sachin-crispai",
