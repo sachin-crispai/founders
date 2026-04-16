@@ -40,11 +40,21 @@ personal_interests:
     notes: Thought leadership, staying current with technology and business trends
   - topic: Travel
     relevance: high
+    notes: Enjoys exploring new places and cultures
   - topic: Family
     relevance: primary
+    notes: Core personal priority
   - topic: Mentorship
     relevance: primary
-    notes: Strong belief in mentoring the next generation of engineers and founders
+    notes: FIRST Robotics mentor (2015–present); ACM Science Fair judge (2011–present)
   - topic: Continuous Learning
     relevance: primary
     notes: Core personal value — always studying new domains and technologies
+
+currently_learning:
+  - topic: Emerging LLM architectures and capabilities
+    started: 2025
+    notes: Tracking frontier model developments for CrispAI product direction
+  - topic: Robotics and embodied AI
+    started: 2024
+    notes: Deepening expertise for CrispAI's robotics vertical

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.10.3/libexec" />
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+    <exec-path>/usr/local/bin/dep</exec-path>
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../work/0CHAIN/codebox/0chain/code/go" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="IntelliJ IDEA IU-143.381.42" project-jdk-type="IDEA JDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="/boxes/courses/coursera/scala101/funsets/funsets" value="1462345040000" />
+        <entry key="/boxes/courses/coursera/scala101/objsets/objsets" value="1462348046000" />
+        <entry key="/boxes/courses/coursera/scala101/projects/SampleSubmission/example" value="1459545174000" />
+        <entry key="/boxes/courses/coursera/scala101/projects/Week01HelloWorld" value="1473799626000" />
+        <entry key="/boxes/courses/coursera/scala101/projects/recfun/recfun" value="1462397930000" />
+        <entry key="/boxes/courses/coursera/scala101/week04/patmat" value="1462405264000" />
+        <entry key="/boxes/projects/scala/FPISPC/work/fpinscala" value="1456774161000" />
+        <entry key="/boxes/projects/scala/coursera/martin/example" value="1442514136000" />
+        <entry key="/boxes/projects/scala/scalatest/sachin/testingScala" value="1455769555000" />
+        <entry key="/boxes/projects/scala/scalatest/testing-in-scala-book" value="1455762341000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../work/0CHAIN/codebox/nacl4s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../work/0CHAIN/codebox/netgen" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../work/0CHAIN/codebox/work/netgen" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../work/ADEPTDC/code/tasks/AFW0019/checkservices" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../work/ADEPTDC/codebox/PROJECT_ADC/adc/checkservices" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../work/ADEPTDC/codebox/adc/checkservices" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../work/ARM/codebox/DPDK-ARMCE/armgen" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../work/ARM/codebox/armgen" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaCompilerConfiguration">
+    <option name="incrementalityType" value="SBT" />
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="autoRunDelay" value="1736" />
+    <option name="inProcessMode" value="false" />
+    <option name="includeBlockExpressions" value="true" />
+    <option name="includeLiterals" value="true" />
+    <option name="outputLimit" value="1000" />
+    <option name="showArgumentsToByNameParams" value="true" />
+    <option name="useEclipseCompatibility" value="true" />
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="/usr/local/Cellar/sbt" />
+    <option name="customVMPath" />
+    <option name="maximumHeapSize" value="2048" />
+    <option name="vmParameters" value="-Xms1024m" />
+  </component>
+  <component name="accountSettings">
+    <option name="activeProfile" value="profile:default" />
+    <option name="activeRegion" value="us-east-1" />
+    <option name="recentlyUsedProfiles">
+      <list>
+        <option value="profile:default" />
+      </list>
+    </option>
+    <option name="recentlyUsedRegions">
+      <list>
+        <option value="us-east-1" />
+      </list>
+    </option>
+  </component>
+</project>

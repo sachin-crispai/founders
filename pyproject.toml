@@ -1,0 +1,6 @@
+[project]
+name = "900-10-sachin-about-me"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = []

@@ -1,48 +1,28 @@
 ---
 last_updated: 2026-04-16
-type: projects
+type: redirect
 ---
 
-# Notable Projects
+# Projects
 
-## Active Projects
+> Full project list is maintained at [`sachin/projects.md`](../sachin/projects.md).
+> This file covers shared company-level context.
 
-### CrispAI — <!-- tagline -->
+## CrispAI
 
 **Status:** Active  
-**Role:** Founder  
-**Description:** <!-- What are you building? Who is it for? -->  
-**Tech:** <!-- Key technologies -->  
-**Links:** <!-- website, repo, demo -->
+**Founded:** 2023  
+**Role:** Co-Founder (Primary)  
+**Description:** AI infrastructure company specializing in on-premises model deployment, AI agents, robotics AI, and medical AI (CT/MRI imaging). Target verticals: Robotics, Construction, Permit Processing, and Medical.  
+**Exit Strategy:** Strategic acquisition at $5M–$10M after 5–10 POC customers  
+**Tech:** Python, LLMs (Claude, open-source on-prem models), Apache Spark, on-prem GPU infra  
+**Links:** [crispai.com](https://crispai.com) · [github.com/sachin-crispai](https://github.com/sachin-crispai)
 
 ---
 
-### <!-- Next project name -->
+## Arcion *(Acquired by Databricks)*
 
-**Status:**  
-**Role:**  
-**Description:**  
-**Tech:**  
-**Links:**
-
----
-
-## Past Projects
-
-<!-- Add past projects that demonstrate your skills and interests -->
-
-### <!-- Project name -->
-
-**Status:** Completed / Archived  
-**Year:**  
-**Description:**  
-**Impact:**  <!-- e.g. "Used by X people", "Published at conference Y" -->
-**Links:**
-
----
-
-## Open Source Contributions
-
-<!-- List any notable open source work -->
-
-- <!-- repo/project: description of contribution -->
+**Status:** Acquired  
+**Description:** Real-time data replication and CDC (Change Data Capture) platform enabling low-latency data movement across heterogeneous enterprise databases.  
+**Exit:** Acquired by Databricks  
+**Tech:** Distributed systems, CDC pipelines, Java, Scala, cloud infrastructure

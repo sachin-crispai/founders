@@ -99,8 +99,17 @@
     ]
   },
   "goals": {
-    "short_term": [],
-    "long_term": []
+    "short_term": [
+      "Build CrispAI core on-prem AI infrastructure stack",
+      "Sign 2-3 POC customers in Robotics, Construction, or Permit Processing",
+      "Build DAG-based job orchestration with error recovery",
+      "Define acquisition narrative for $5M-$10M exit"
+    ],
+    "long_term": [
+      "Reach 5-10 paying POC customers",
+      "Strategic acquisition at $5M-$10M within 2-3 years",
+      "Establish CrispAI as the go-to on-prem AI infrastructure for a niche vertical"
+    ]
   },
   "preferences": {
     "communication_style": "direct and concise, structured output preferred",
