@@ -36,7 +36,7 @@ Use `manifest.json#use_cases.form_autofill` to map form fields to profile values
 | Company | `profile.json → identity.company` = `CrispAI` |
 | Title / Role | `profile.json → identity.role` = `Co-Founder / CTO` |
 | Headline | `profile.json → identity.headline` |
-| Location | `profile.json → identity.location` = `Fremont, California, USA` |
+| Location | `profile.json → identity.location` = `San Francisco Bay Area, California, USA` |
 | LinkedIn | `profile.json → links.linkedin` |
 | GitHub | `profile.json → links.github` |
 | Twitter | `profile.json → links.twitter` = `@sachinnaik` |

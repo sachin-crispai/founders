@@ -11,7 +11,7 @@
 | Company    | CrispAI                            |
 | Role       | Co-Founder                         |
 | Headline   | Polyglot Technologist \| GenAI, LLMs, Agent Frameworks |
-| Location   | Fremont, California, USA           |
+| Location   | San Francisco Bay Area, California, USA           |
 | Primary    | Yes                                |
 | GitHub     | github.com/sachin-crispai          |
 | LinkedIn   | linkedin.com/in/sachinumeshnaik    |

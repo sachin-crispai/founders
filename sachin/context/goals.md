@@ -16,12 +16,12 @@ subject: Sachin
 
 - [ ] Finalize core on-prem AI infrastructure stack
 - [ ] Sign first 2–3 POC customers in a target vertical (Robotics / Construction / Permits)
-- [ ] Define acquisition narrative and positioning for $5M–$10M exit
+- [ ] Define acquisition narrative and positioning for strategic exit
 - [ ] Build automated DAG-based job orchestration with error recovery for CrispAI workflows
 
 ## Long-Term Vision (2–3 years)
 
-Position CrispAI as the go-to AI infrastructure layer for a specific niche — likely Robotics, Construction, or Permit/Regulatory Processing — and execute a strategic acquisition in the $5M–$10M range. The playbook: build core infrastructure, prove it with 5–10 paying POC customers, and exit to a larger AI or enterprise tech company.
+Position CrispAI as the go-to AI infrastructure layer for a specific niche — likely Robotics, Construction, or Permit/Regulatory Processing — and execute a strategic acquisition. The playbook: build core infrastructure, prove it with 5–10 paying POC customers, and exit to a larger AI or enterprise tech company.
 
 ## Target Verticals
 

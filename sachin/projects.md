@@ -12,7 +12,7 @@ subject: Sachin
 
 **Status:** Active  
 **Role:** Co-Founder  
-**Description:** AI infrastructure company specializing in on-premises model deployment, AI agents, robotics AI, and medical AI (CT/MRI imaging). Target verticals: Robotics, Construction, Permit Processing, Medical. Building toward 5–10 POC customers and a $5M–$10M strategic acquisition.  
+**Description:** AI infrastructure company specializing in on-premises model deployment, AI agents, robotics AI, and medical AI (CT/MRI imaging). Target verticals: Robotics, Construction, Permit Processing, Medical. Building toward 5–10 POC customers and a strategic acquisition.  
 **Tech:** Python, LLMs (Claude, open-source on-prem models), Apache Spark, cloud + on-prem infra  
 **Links:** [crispai.com](https://crispai.com) · [github.com/sachin-crispai](https://github.com/sachin-crispai)
 

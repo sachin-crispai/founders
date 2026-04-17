@@ -8,7 +8,7 @@ subject: Sachin
 
 ## Short Bio
 
-Sachin Naik is a co-founder of CrispAI and a polyglot technologist specializing in GenAI, LLMs, agent frameworks, and cloud/data infrastructure — particularly in healthcare and high-complexity environments. An IIT Bombay alumnus and serial entrepreneur, he has a track record of building scalable systems across startups and mid-sized teams, with expert-level depth spanning 15+ programming languages from Python and Scala down to x86 and RISC assembly. Most recently he was part of Arcion, acquired by Databricks. He is based in Fremont, California.
+Sachin Naik is a co-founder of CrispAI and a polyglot technologist specializing in GenAI, LLMs, agent frameworks, and cloud/data infrastructure — particularly in healthcare and high-complexity environments. An IIT Bombay alumnus and serial entrepreneur, he has a track record of building scalable systems across startups and mid-sized teams, with expert-level depth spanning 15+ programming languages from Python and Scala down to x86 and RISC assembly. Most recently he was part of Arcion, acquired by Databricks. He is based in the San Francisco Bay Area.
 
 ## LinkedIn Summary
 
