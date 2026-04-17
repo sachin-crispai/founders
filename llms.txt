@@ -33,5 +33,6 @@
 ## Quick Links
 
 - GitHub: https://github.com/sachin-crispai/founders
+- Email: sachin@crispai.com
 - Short link (manifest): https://tinyurl.com/25ot6wjw
 - Short link (profile): https://tinyurl.com/27dpxt8y
