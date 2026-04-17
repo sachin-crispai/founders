@@ -2,41 +2,160 @@ last_updated: 2026-04-16
 
 experience:
   - company: CrispAI
-    role: Co-Founder
+    role: Co-Founder / CTO
     status: current
-    start_date:
+    start_date: 2016-02
     end_date: present
-    location: Fremont, California, USA
+    location: San Francisco Bay Area (Hybrid)
     description: >
-      AI company specializing in on-premises model deployment, AI agents and automation,
-      robotics AI, medical AI services, and AI infrastructure. Co-founded with Praveen,
+      AI infrastructure company specializing in on-premises model deployment, AI agents,
+      robotics AI, and medical AI (CT/MRI imaging). Co-founded with Praveen,
       Dr. Patrick Damaso, Rohan Pai, Srinivas Dharmasharan, SG Anand, and Sameer Gupta.
     key_work:
-      - On-premises LLM deployment for regulated industries
-      - AI agent and workflow automation platforms
-      - Robotics AI applications
-      - Medical AI services
+      - Cloud migrations (AWS/On-Prem to GCP, K8s, Docker, Ray)
+      - Data engineering (Databricks, Pydantic, orchestration)
+      - Healthcare AI (DICOM, HIPAA, encrypted pipelines)
+      - LLMs and agents (OpenAI, Claude, DeepSeek, memGPT, vLLM, crewAI)
     tech_stack:
-      - Python
-      - LLMs (Claude, OpenAI, open-source models)
-      - On-prem inference infrastructure
+      - Python, GCP, Kubernetes, Docker, Ray
+      - Databricks, Pydantic
+      - Claude, OpenAI, DeepSeek, vLLM, crewAI, memGPT
+      - DICOM, HIPAA-compliant pipelines
 
-  - company: Arcion
-    role: Senior Engineer / Technical Lead
-    status: past
-    start_date:
-    end_date:
-    location:
-    description: >
-      Real-time data replication and CDC (Change Data Capture) platform.
-      Acquired by Databricks.
+  - company: SupportVectors
+    role: Senior Director of Data Science
+    status: current
+    start_date: 2019-07
+    end_date: present
+    location: San Francisco, CA
+    description: Lead data science R&D teams; develop domain-specific ML solutions
     key_work:
-      - Data pipeline and replication infrastructure
+      - Lead data science R&D
+      - Domain-specific ML solutions
+
+  - company: Arcion Labs
+    role: Principal Engineer
+    status: past
+    start_date: 2021-02
+    end_date: 2022-08
+    location:
+    description: Real-time data replication and CDC platform, acquired by Databricks.
+    key_work:
+      - Led cloud framework development
+      - Built Databricks integrations and PoCs
     tech_stack:
-      - Data engineering
-      - Databases
-      - Cloud infrastructure
+      - Databricks, cloud infrastructure, distributed systems
     exit: Acquired by Databricks
+
+  - company: 0Chain
+    role: Senior Architect
+    status: past
+    start_date: 2018-07
+    end_date: 2019-07
+    location:
+    description: Blockchain infrastructure and distributed systems
+    key_work:
+      - Built 130-node blockchain infrastructure
+      - Led distributed systems and simulations
+
+  - company: Stealth Mode Startup
+    role: Founder / CTO
+    status: past
+    start_date: 2012-11
+    end_date: 2018-12
+    location:
+    description: Salesforce integrations for SMBs
+    key_work:
+      - Salesforce integrations for small and mid-sized businesses
+
+  - company: EdCast
+    role: Senior Technical Consultant
+    status: past
+    start_date: 2018-03
+    end_date: 2018-08
+    location:
+    key_work:
+      - Launched SalesU and GuideMe products
+
+  - company: AFour Technologies
+    role: Senior Technical Consultant
+    status: past
+    start_date: 2018-02
+    end_date: 2018-07
+    key_work:
+      - ARM crypto drivers and encryption systems
+    tech_stack:
+      - ARM, cryptography, embedded systems
+
+  - company: AdeptDC
+    role: Senior Technical Consultant
+    status: past
+    start_date: 2018-02
+    end_date: 2018-07
+    key_work:
+      - Data center simulation and predictive models
+
+  - company: L2RSoft
+    role: CTO / Co-Founder
+    status: past
+    start_date: 2011-06
+    end_date: 2012-03
+    key_work:
+      - Business process and dashboard systems
+
+  - company: Hewlett-Packard (HP)
+    role: Senior Software Designer
+    status: past
+    start_date: 2002-07
+    end_date: 2010-03
+    location:
+    description: Two tenures at HP covering ETL/BI platforms and kernel/memory architecture
+    key_work:
+      - ETL and BI platform development (2007–2010)
+      - Kernel and memory system architecture (2002–2007)
+    tech_stack:
+      - Kernel engineering, ETL, BI platforms
+
+  - company: Live Oak Logic
+    role: Embedded Software Consultant
+    status: past
+    start_date: 2006-01
+    end_date: 2007-03
+    key_work:
+      - uClinux porting and SDK development
+    tech_stack:
+      - uClinux, embedded systems, ARM
+
+  - company: Tandem Computers
+    role: Senior Software Engineer
+    status: past
+    start_date: 1996-05
+    end_date: 2002-05
+    key_work:
+      - Distributed systems and kernel engineering
+    tech_stack:
+      - Kernel engineering, distributed systems
+
+  - company: Epocrates
+    role: Founding Engineer
+    status: past
+    start_date: 1998-04
+    end_date: 1999-03
+    description: Early electronic medical records (EMR) systems
+    key_work:
+      - Early EMR systems
+    tech_stack:
+      - Healthcare software, EMR
+
+  - company: IBM
+    role: Software Designer
+    status: past
+    start_date: 1994-06
+    end_date: 1996-05
+    key_work:
+      - Microkernel and VM development
+    tech_stack:
+      - Microkernel, virtual machines, systems programming
 
 education:
   - institution: Indian Institute of Technology, Bombay (IIT Bombay)
@@ -47,7 +166,7 @@ education:
     notes: One of India's premier technical institutions
 
 patents:
-  - title: Distributed Systems (network traffic control)
+  - title: Distributed Systems / Network Traffic Control
     status: Issued
     notes: Two patents issued related to distributed systems and network traffic control
 
@@ -62,7 +181,6 @@ volunteer:
     organization: ACM
     start: 2011
     end: present
-    notes: Judges student science fair projects for ACM
 
 certifications:
   - name: Functional Program Design in Scala
