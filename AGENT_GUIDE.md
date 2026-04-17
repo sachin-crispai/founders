@@ -1,6 +1,22 @@
 # Agent Guide
 
-Instructions for LLM agents (Claude, Gemini, GPT, Codex, Gemma, etc.) on navigating this repository.
+Instructions for LLM agents (Claude, Gemini, GPT, Codex, Gemma, Atlas Browser, etc.) on navigating this repository.
+
+## Atlas Browser — Quick Start
+
+Atlas can use this repo to auto-fill websites, profiles, and forms.
+
+1. Load `manifest.json` — it maps every form field to the exact file and key
+2. Load `sachin/profile.json` — single JSON with all identity facts
+3. Use `manifest.json#use_cases.form_autofill` for field-to-value mapping
+4. For bio text fields: use `sachin/bio.md#Short Bio` (1 paragraph) or `#Public Bio` (3rd person)
+
+**Raw file URLs (for Atlas or any HTTP agent):**
+```
+https://raw.githubusercontent.com/sachin-crispai/founders/main/manifest.json
+https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/profile.json
+https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/bio.md
+```
 
 ## Finding the Primary Founder
 

@@ -1,0 +1,120 @@
+{
+  "_meta": {
+    "type": "agent-context-repository",
+    "schema_version": "1.0",
+    "last_updated": "2026-04-16",
+    "owner": "Sachin Naik",
+    "repo": "https://github.com/sachin-crispai/founders",
+    "description": "Canonical identity and context repository for Sachin Naik, Co-Founder/CTO of CrispAI. Designed for consumption by LLM agents, AI browsers (Atlas), and automated systems.",
+    "primary_subject": "sachin",
+    "compatible_agents": ["Claude", "GPT", "Gemini", "Gemma", "Codex", "Atlas Browser", "any LLM"]
+  },
+
+  "entry_points": {
+    "quick_identity": "sachin/profile.json",
+    "narrative_bio": "sachin/bio.md",
+    "agent_instructions": "AGENT_GUIDE.md",
+    "agent_workflow": "WORKFLOW.md",
+    "full_index": "README.md"
+  },
+
+  "use_cases": {
+    "form_autofill": {
+      "description": "Filling out web forms, job applications, profile pages",
+      "primary_file": "sachin/profile.json",
+      "fields": {
+        "first_name": "sachin/profile.json#identity.first_name",
+        "last_name": "sachin/profile.json#identity.last_name",
+        "full_name": "sachin/profile.json#identity.name",
+        "email": "sachin/profile.json#identity.email",
+        "company": "sachin/profile.json#identity.company",
+        "role": "sachin/profile.json#identity.role",
+        "headline": "sachin/profile.json#identity.headline",
+        "location": "sachin/profile.json#identity.location",
+        "linkedin": "sachin/profile.json#links.linkedin",
+        "github": "sachin/profile.json#links.github",
+        "twitter": "sachin/profile.json#links.twitter",
+        "bio_short": "sachin/bio.md#Short Bio",
+        "bio_public": "sachin/bio.md#Public Bio"
+      }
+    },
+    "agent_context": {
+      "description": "Providing background context to a new AI agent or assistant",
+      "read_order": [
+        "sachin/profile.json",
+        "sachin/bio.md",
+        "sachin/context/goals.md",
+        "sachin/context/preferences.md"
+      ]
+    },
+    "skills_assessment": {
+      "description": "Understanding technical background and capabilities",
+      "primary_file": "sachin/skills.yaml",
+      "supplementary": "work/experience.yaml"
+    },
+    "career_history": {
+      "description": "Full work history and timeline",
+      "primary_file": "work/experience.yaml"
+    }
+  },
+
+  "files": [
+    {
+      "path": "sachin/profile.json",
+      "type": "json",
+      "purpose": "Machine-readable identity profile — primary source of truth",
+      "update_frequency": "on change",
+      "authoritative": true
+    },
+    {
+      "path": "sachin/bio.md",
+      "type": "markdown",
+      "purpose": "Narrative professional bio — short, extended, and public versions"
+    },
+    {
+      "path": "sachin/skills.yaml",
+      "type": "yaml",
+      "purpose": "Technical and soft skills with proficiency levels"
+    },
+    {
+      "path": "sachin/interests.yaml",
+      "type": "yaml",
+      "purpose": "Professional and personal interests with relevance ratings"
+    },
+    {
+      "path": "sachin/projects.md",
+      "type": "markdown",
+      "purpose": "Active and past projects including CrispAI and Arcion"
+    },
+    {
+      "path": "sachin/context/goals.md",
+      "type": "markdown",
+      "purpose": "Current goals, target verticals, acquisition strategy"
+    },
+    {
+      "path": "sachin/context/preferences.md",
+      "type": "markdown",
+      "purpose": "Communication style, work preferences, AI agent interaction guidelines"
+    },
+    {
+      "path": "work/experience.yaml",
+      "type": "yaml",
+      "purpose": "Full career history — 14 roles from IBM (1994) to CrispAI (present)"
+    },
+    {
+      "path": "work/projects.md",
+      "type": "markdown",
+      "purpose": "Company-level project context; see sachin/projects.md for full detail"
+    },
+    {
+      "path": "AGENT_GUIDE.md",
+      "type": "markdown",
+      "purpose": "Navigation instructions for LLM agents"
+    },
+    {
+      "path": "WORKFLOW.md",
+      "type": "markdown",
+      "purpose": "Step-by-step workflow for agents taking over tasks in this repo"
+    }
+  ]
+}

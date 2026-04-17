@@ -29,6 +29,22 @@
 | `context/goals.md` | Current goals and priorities |
 | `context/preferences.md` | How Sachin likes to work and communicate |
 
+## Raw URLs (for Atlas Browser / HTTP agents)
+
+```
+# Identity (machine-readable)
+https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/profile.json
+
+# Bio (narrative)
+https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/bio.md
+
+# Skills
+https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/skills.yaml
+
+# Full manifest
+https://raw.githubusercontent.com/sachin-crispai/founders/main/manifest.json
+```
+
 ---
 
 *Last updated: 2026-04-16*
