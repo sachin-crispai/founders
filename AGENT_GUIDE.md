@@ -11,11 +11,12 @@ Atlas can use this repo to auto-fill websites, profiles, and forms.
 3. Use `manifest.json#use_cases.form_autofill` for field-to-value mapping
 4. For bio text fields: use `sachin/bio.md#Short Bio` (1 paragraph) or `#Public Bio` (3rd person)
 
-**Raw file URLs (for Atlas or any HTTP agent):**
+**Short URLs (easy to recall):**
 ```
-https://raw.githubusercontent.com/sachin-crispai/founders/main/manifest.json
-https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/profile.json
-https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/bio.md
+https://tinyurl.com/sachin-manifest        ← start here
+https://tinyurl.com/sachin-crispai-profile ← identity JSON
+https://tinyurl.com/sachin-bio             ← narrative bio
+https://tinyurl.com/sachin-founders        ← full GitHub repo
 ```
 
 ## Finding the Primary Founder
