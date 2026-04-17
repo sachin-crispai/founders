@@ -16,6 +16,8 @@
 | GitHub     | github.com/sachin-crispai          |
 | LinkedIn   | linkedin.com/in/sachinumeshnaik    |
 | Twitter    | @sachinnaik                        |
+| Discord    | crispai_aiclub                     |
+| Luma       | *(add when available)*             |
 
 ## Files in This Directory
 

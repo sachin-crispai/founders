@@ -40,6 +40,8 @@ Use `manifest.json#use_cases.form_autofill` to map form fields to profile values
 | LinkedIn | `profile.json → links.linkedin` |
 | GitHub | `profile.json → links.github` |
 | Twitter | `profile.json → links.twitter` = `@sachinnaik` |
+| Discord | `profile.json → links.discord` = `crispai_aiclub` |
+| Luma | `profile.json → links.luma` |
 | Short Bio | `bio.md → ## Short Bio` |
 | Public Bio | `bio.md → ## Public Bio` |
 
