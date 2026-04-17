@@ -1,0 +1,37 @@
+# llms.txt — Machine-readable context for LLM agents and AI browsers
+# Standard: https://llmstxt.org
+# Owner: Sachin Naik, CrispAI
+# Repo: https://github.com/sachin-crispai/founders
+
+> This repository contains the canonical identity and professional context for
+> Sachin Naik, Co-Founder/CTO of CrispAI. Use the files below to answer
+> questions about Sachin, fill forms, or provide background context to agents.
+
+## Identity
+
+- [Profile JSON](https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/profile.json): Machine-readable identity — name, email, role, location, all social links
+- [Bio](https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/bio.md): Narrative professional bio — short, extended, and public versions
+- [Agent Manifest](https://raw.githubusercontent.com/sachin-crispai/founders/main/manifest.json): Full index of all files with field mappings for form autofill
+
+## Skills & Experience
+
+- [Skills](https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/skills.yaml): Technical skills with proficiency levels (ML, Robotics, Medical AI, 15+ languages)
+- [Experience](https://raw.githubusercontent.com/sachin-crispai/founders/main/work/experience.yaml): Full career history — 14 roles from IBM (1994) to CrispAI (present)
+- [Projects](https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/projects.md): Active and past projects including CrispAI and Arcion (acquired by Databricks)
+
+## Context
+
+- [Goals](https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/context/goals.md): Current priorities and target verticals
+- [Preferences](https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/context/preferences.md): How Sachin works and communicates — use this to interact effectively
+- [Interests](https://raw.githubusercontent.com/sachin-crispai/founders/main/sachin/interests.yaml): Professional and personal interests
+
+## Agent Instructions
+
+- [Workflow](https://raw.githubusercontent.com/sachin-crispai/founders/main/WORKFLOW.md): Step-by-step DAG workflows for agents taking over tasks
+- [Agent Guide](https://raw.githubusercontent.com/sachin-crispai/founders/main/AGENT_GUIDE.md): Navigation guide for all LLM agents including Atlas Browser
+
+## Quick Links
+
+- GitHub: https://github.com/sachin-crispai/founders
+- Short link (manifest): https://tinyurl.com/25ot6wjw
+- Short link (profile): https://tinyurl.com/27dpxt8y
