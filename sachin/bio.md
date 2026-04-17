@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 type: professional_bio
 subject: Sachin
 ---
@@ -42,4 +42,4 @@ Holds two issued patents related to distributed systems and network traffic cont
 
 ## Public Bio (third-person, for talks, profiles, about pages)
 
-Sachin is a co-founder of CrispAI, a San Francisco AI company specializing in on-premises AI deployment, intelligent agents, robotics, and medical AI including CT and MRI imaging systems. An IIT Bombay graduate, serial entrepreneur, and engineering leader fluent in 15+ programming languages, he previously worked at Arcion (acquired by Databricks). He is a FIRST Robotics mentor, ACM Science Fair judge, and holds two patents in distributed systems. He is based in San Francisco.
+Sachin is a co-founder of CrispAI, a San Francisco AI company specializing in on-premises AI deployment, intelligent agents, robotics, and medical AI including CT and MRI imaging systems. An IIT Bombay graduate, serial entrepreneur, and engineering leader fluent in 15+ programming languages, he previously worked at Arcion (acquired by Databricks). He is a FIRST Robotics mentor, ACM Science Fair judge, and holds two patents in distributed systems. He is based in the San Francisco Bay Area.

@@ -9,7 +9,7 @@
 | Name       | Sachin Naik                        |
 | Email      | sachin@crispai.com                 |
 | Company    | CrispAI                            |
-| Role       | Co-Founder                         |
+| Role       | Co-Founder / CTO                  |
 | Headline   | Polyglot Technologist \| GenAI, LLMs, Agent Frameworks |
 | Location   | San Francisco Bay Area, California, USA           |
 | Primary    | Yes                                |

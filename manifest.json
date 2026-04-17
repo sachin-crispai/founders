@@ -2,7 +2,7 @@
   "_meta": {
     "type": "agent-context-repository",
     "schema_version": "1.0",
-    "last_updated": "2026-04-16",
+    "last_updated": "2026-04-17",
     "owner": "Sachin Naik",
     "repo": "https://github.com/sachin-crispai/founders",
     "description": "Canonical identity and context repository for Sachin Naik, Co-Founder/CTO of CrispAI. Designed for consumption by LLM agents, AI browsers (Atlas), and automated systems.",
