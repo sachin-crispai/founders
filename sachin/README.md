@@ -17,7 +17,8 @@
 | LinkedIn   | linkedin.com/in/sachinumeshnaik    |
 | Twitter    | @sachinnaik                        |
 | Discord    | crispai_aiclub                     |
-| Luma       | *(add when available)*             |
+| Luma       | sachin@crispai.com (account email) |
+| YouTube    | @sachinunaik                       |
 
 ## Files in This Directory
 
